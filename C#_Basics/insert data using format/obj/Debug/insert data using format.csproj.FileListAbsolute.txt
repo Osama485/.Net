@@ -1,0 +1,7 @@
+D:\C#\ConsoleApp1\insert data using format\bin\Debug\insert data using format.exe.config
+D:\C#\ConsoleApp1\insert data using format\bin\Debug\insert data using format.exe
+D:\C#\ConsoleApp1\insert data using format\bin\Debug\insert data using format.pdb
+D:\C#\ConsoleApp1\insert data using format\obj\Debug\insert data using format.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\insert data using format\obj\Debug\insert data using format.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\insert data using format\obj\Debug\insert data using format.exe
+D:\C#\ConsoleApp1\insert data using format\obj\Debug\insert data using format.pdb

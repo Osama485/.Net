@@ -1,0 +1,7 @@
+D:\C#\ConsoleApp1\Advanced Format\bin\Debug\Advanced Format.exe.config
+D:\C#\ConsoleApp1\Advanced Format\bin\Debug\Advanced Format.exe
+D:\C#\ConsoleApp1\Advanced Format\bin\Debug\Advanced Format.pdb
+D:\C#\ConsoleApp1\Advanced Format\obj\Debug\Advanced Format.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\Advanced Format\obj\Debug\Advanced Format.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\Advanced Format\obj\Debug\Advanced Format.exe
+D:\C#\ConsoleApp1\Advanced Format\obj\Debug\Advanced Format.pdb

@@ -1,0 +1,7 @@
+D:\C#\ConsoleApp1\cutting the last 4 letters from string\bin\Debug\cutting the last 4 letters from string.exe.config
+D:\C#\ConsoleApp1\cutting the last 4 letters from string\bin\Debug\cutting the last 4 letters from string.exe
+D:\C#\ConsoleApp1\cutting the last 4 letters from string\bin\Debug\cutting the last 4 letters from string.pdb
+D:\C#\ConsoleApp1\cutting the last 4 letters from string\obj\Debug\cutting the last 4 letters from string.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\cutting the last 4 letters from string\obj\Debug\cutting the last 4 letters from string.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\cutting the last 4 letters from string\obj\Debug\cutting the last 4 letters from string.exe
+D:\C#\ConsoleApp1\cutting the last 4 letters from string\obj\Debug\cutting the last 4 letters from string.pdb

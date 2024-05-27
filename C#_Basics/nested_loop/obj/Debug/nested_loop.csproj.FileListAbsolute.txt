@@ -1,0 +1,7 @@
+D:\C#\ConsoleApp1\nested_loop\bin\Debug\nested_loop.exe.config
+D:\C#\ConsoleApp1\nested_loop\bin\Debug\nested_loop.exe
+D:\C#\ConsoleApp1\nested_loop\bin\Debug\nested_loop.pdb
+D:\C#\ConsoleApp1\nested_loop\obj\Debug\nested_loop.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\nested_loop\obj\Debug\nested_loop.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\nested_loop\obj\Debug\nested_loop.exe
+D:\C#\ConsoleApp1\nested_loop\obj\Debug\nested_loop.pdb

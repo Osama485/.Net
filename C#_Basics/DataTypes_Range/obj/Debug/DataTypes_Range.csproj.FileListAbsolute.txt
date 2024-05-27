@@ -1,0 +1,7 @@
+D:\C#\ConsoleApp1\DataTypes_Range\bin\Debug\DataTypes_Range.exe.config
+D:\C#\ConsoleApp1\DataTypes_Range\bin\Debug\DataTypes_Range.exe
+D:\C#\ConsoleApp1\DataTypes_Range\bin\Debug\DataTypes_Range.pdb
+D:\C#\ConsoleApp1\DataTypes_Range\obj\Debug\DataTypes_Range.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\DataTypes_Range\obj\Debug\DataTypes_Range.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\DataTypes_Range\obj\Debug\DataTypes_Range.exe
+D:\C#\ConsoleApp1\DataTypes_Range\obj\Debug\DataTypes_Range.pdb

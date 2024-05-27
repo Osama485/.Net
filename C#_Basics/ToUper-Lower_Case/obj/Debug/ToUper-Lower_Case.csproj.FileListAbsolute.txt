@@ -1,0 +1,7 @@
+D:\C#\ConsoleApp1\ToUper-Lower_Case\bin\Debug\ToUper-Lower_Case.exe.config
+D:\C#\ConsoleApp1\ToUper-Lower_Case\bin\Debug\ToUper-Lower_Case.exe
+D:\C#\ConsoleApp1\ToUper-Lower_Case\bin\Debug\ToUper-Lower_Case.pdb
+D:\C#\ConsoleApp1\ToUper-Lower_Case\obj\Debug\ToUper-Lower_Case.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\ToUper-Lower_Case\obj\Debug\ToUper-Lower_Case.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\ToUper-Lower_Case\obj\Debug\ToUper-Lower_Case.exe
+D:\C#\ConsoleApp1\ToUper-Lower_Case\obj\Debug\ToUper-Lower_Case.pdb

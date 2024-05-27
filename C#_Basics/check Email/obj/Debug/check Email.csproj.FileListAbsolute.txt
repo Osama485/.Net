@@ -1,0 +1,7 @@
+D:\C#\ConsoleApp1\check Email\bin\Debug\check Email.exe.config
+D:\C#\ConsoleApp1\check Email\bin\Debug\check Email.exe
+D:\C#\ConsoleApp1\check Email\bin\Debug\check Email.pdb
+D:\C#\ConsoleApp1\check Email\obj\Debug\check Email.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\check Email\obj\Debug\check Email.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\check Email\obj\Debug\check Email.exe
+D:\C#\ConsoleApp1\check Email\obj\Debug\check Email.pdb
